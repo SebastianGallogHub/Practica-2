@@ -7,5 +7,5 @@ Segunda rama****************************************
 	-En esta segunda rama el separador es diferente.
 	-Los bulletpoints estan hechos con guiones
 	-Es una enumeración, ya no un texto.
-	-esisten algunos errores de ortografía.
+	-Existen algunos errores de ortografía.
 	
