@@ -2,5 +2,8 @@ Texto de cabecera
 
 Primera rama****************************************
 
+	+Texto en la primera modificación llamada f1
+	+este texto esta para ver como se ve en el archivo fuente las diferentes ramas
+
 Segunda rama****************************************
 
