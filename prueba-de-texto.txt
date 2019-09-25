@@ -5,5 +5,7 @@ Primera rama****************************************
 	+Texto en la primera modificación llamada f1
 	+este texto esta para ver como se ve en el archivo fuente las diferentes ramas
 
+	+Agregando mas texto me aseguro de hacer mas cambios en esta rama y de tener mas puntos de commit
+
 Segunda rama****************************************
 
