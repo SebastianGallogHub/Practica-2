@@ -11,13 +11,10 @@ Primera rama****************************************
 
 Segunda rama****************************************
 
-
-
-
-
-
-
-
+	-En esta segunda rama el separador es diferente.
+	-Los bulletpoints estan hechos con guiones
+	-Es una enumeración, ya no un texto.
+	-Existen algunos errores de ortografía.
 
 ****************************************************
 Se me ocurrió tambien agregar un texto al pie
